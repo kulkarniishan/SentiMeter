@@ -1,0 +1,8 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "d:\\Personal Projects\\SentiMeter\\spark-processor\\sentiment_analysis_environment\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
